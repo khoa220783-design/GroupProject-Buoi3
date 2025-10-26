@@ -2,5 +2,5 @@
 Chúng ta sẽ dùng file này để thực hành conflict.
 DÒNG 3
 DÒNG 4
-DÒNG 5 (để sửa)
+DÒNG 5 dòng này của đăng khoa
 DÒNG 6
